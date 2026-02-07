@@ -1,4 +1,4 @@
-## Interesting Findingsfor Further Investigation
+## Interesting Findings for Further Investigation
 
 After exploring the Rental Registry, Crime (2024), and Kindergarten Readiness datasets, a few patterns stood out. These are not final conclusions, but possible relationships that could be studied further.
 
